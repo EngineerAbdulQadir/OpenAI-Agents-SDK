@@ -9,7 +9,10 @@ This repository highlights innovative implementations and applications built usi
 
 ## Core Concepts  
 
-The projects below illustrate the core components of OpenAI Agents SDK:  
+The projects below illustrate the core components of OpenAI Agents SDK:  '
+
+0. **Python Syntax Dataclasses**  
+   [View Project]() 
 
 1. **Swarm**  
    [View Project](https://github.com/EngineerAbdulQadir/OpenAI-Agents-SDK/tree/main/Gauge/01%20-%20Swarm) 

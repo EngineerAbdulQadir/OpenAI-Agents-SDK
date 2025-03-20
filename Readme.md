@@ -11,7 +11,7 @@ This repository highlights innovative implementations and applications built usi
 
 The projects below illustrate the core components of OpenAI Agents SDK:  '
 
-0. **Python Syntax Dataclasses**  
+0. **Python Syntax**  
    [View Project](https://github.com/EngineerAbdulQadir/OpenAI-Agents-SDK/tree/main/Gauge/00%20-%20Pyhton%20Syntax%20Dataclasses) 
 
 1. **Swarm**  

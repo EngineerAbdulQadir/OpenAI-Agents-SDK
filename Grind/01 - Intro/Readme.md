@@ -37,9 +37,3 @@ The Agents SDK is built around a small set of powerful primitives:
   The SDK comes with comprehensive tracing capabilities, enabling you to visualize, debug, and evaluate your agentic flows. This also includes features for fine-tuning models to suit your specific application needs.
 
 ---
-
-## Getting Started
-
-As you explore the OpenAI Agents SDK, you'll discover how these primitives interact to form a robust foundation for building intelligent AI systems. Whether you're building simple prototypes or complex production systems, the SDK provides the tools and flexibility required to bring your ideas to life.
-
----

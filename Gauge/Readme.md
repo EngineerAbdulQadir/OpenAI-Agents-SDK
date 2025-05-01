@@ -10,19 +10,19 @@ Uv Python Package Installer -->
 Chainlit UI -->
 
 Levels --> 
-	Global Level 
-	Agent Level 
+	Global Level -- 
+	Agent Level --
 	Runner Level 
 
 Execution -->
-	Synchronous 
+	Synchronous --
 	Asynchronous 
 
 Basic ChatBot -->
 	Agents SDK + Chainlit 
 
 Streaming -->
-	Streaming + Chainlit
+	Streaming + Chainlit --
 	Implemented Through Google Colab 
 
 Tools -->

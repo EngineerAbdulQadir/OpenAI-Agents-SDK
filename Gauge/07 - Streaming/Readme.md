@@ -1,4 +1,4 @@
-# Streaming with the `agents` Framework
+# Streaming
 
 In streaming mode, the `agents` framework emits **events** continuously as the model and tools execute, rather than buffering the entire output and returning it in one go. This allows you to:
 

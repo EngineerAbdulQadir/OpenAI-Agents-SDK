@@ -108,17 +108,6 @@ async def main():
                 print("-- Message:\n", ItemHelpers.text_message_output(item))
 
 
-## The Event Loop: `asyncio.run(main())`
-
-Since streaming is asynchronous, you need to start your async `main()` in a script:
-
-```python
-if __name__ == "__main__":
-    import asyncio
-    asyncio.run(main())
+# Event Loop
+asyncio.run(main())
 ```
-
-- `asyncio.run` creates an event loop, runs `main()`, and cleans up.
-- Ensures your async iteration over `stream_events()` executes properly.
-
----

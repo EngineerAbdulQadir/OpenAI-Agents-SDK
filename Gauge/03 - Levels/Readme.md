@@ -1,4 +1,4 @@
-## 🔄 OpenAI Agents SDK – Model Configuration Levels
+## Model Configuration Levels
 
 The OpenAI Agents SDK supports model configuration at three different levels, allowing for flexible and layered control over which LLM is used where.
 

@@ -1,8 +1,4 @@
-# OpenAI Agents SDK: Synchronous vs. Asynchronous
-
-A quick-reference guide to help you understand—and choose between—the **sync** and **async** modes in the OpenAI Agents SDK.
-
-## Why It Matters
+# Synchronous VS Asynchronous
 
 Choosing between **sync** and **async** affects:
 - **Performance**: Can your app block while waiting for an LLM response?

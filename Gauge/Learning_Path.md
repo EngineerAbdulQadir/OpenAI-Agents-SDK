@@ -1,4 +1,4 @@
-OpenAI Agents SDK - Roadmap
+OpenAI Agents SDK - Learning Path
 ---------------------------
 
 Syntax Dataclasses -->
@@ -24,3 +24,5 @@ Basic ChatBot -->
 Streaming -->
 	Streaming + Chainlit
 	Implemented Through Google Colab 
+
+Tools -->
